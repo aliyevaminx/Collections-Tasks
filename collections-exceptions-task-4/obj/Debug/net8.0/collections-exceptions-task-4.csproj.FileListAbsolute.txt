@@ -1,0 +1,14 @@
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.AssemblyInfoInputs.cache
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.AssemblyInfo.cs
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\collections-exceptions-task-4\bin\Debug\net8.0\collections-exceptions-task-4.exe
+C:\Users\Amin\source\repos\collections-exceptions-task-4\bin\Debug\net8.0\collections-exceptions-task-4.deps.json
+C:\Users\Amin\source\repos\collections-exceptions-task-4\bin\Debug\net8.0\collections-exceptions-task-4.runtimeconfig.json
+C:\Users\Amin\source\repos\collections-exceptions-task-4\bin\Debug\net8.0\collections-exceptions-task-4.dll
+C:\Users\Amin\source\repos\collections-exceptions-task-4\bin\Debug\net8.0\collections-exceptions-task-4.pdb
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.dll
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\refint\collections-exceptions-task-4.dll
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.pdb
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\collections-exceptions-task-4.genruntimeconfig.cache
+C:\Users\Amin\source\repos\collections-exceptions-task-4\obj\Debug\net8.0\ref\collections-exceptions-task-4.dll

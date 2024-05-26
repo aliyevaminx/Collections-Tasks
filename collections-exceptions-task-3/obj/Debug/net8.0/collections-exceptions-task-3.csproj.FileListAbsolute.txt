@@ -1,0 +1,14 @@
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.AssemblyInfoInputs.cache
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.AssemblyInfo.cs
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\collections-exceptions-task-3\bin\Debug\net8.0\collections-exceptions-task-3.exe
+C:\Users\Amin\source\repos\collections-exceptions-task-3\bin\Debug\net8.0\collections-exceptions-task-3.deps.json
+C:\Users\Amin\source\repos\collections-exceptions-task-3\bin\Debug\net8.0\collections-exceptions-task-3.runtimeconfig.json
+C:\Users\Amin\source\repos\collections-exceptions-task-3\bin\Debug\net8.0\collections-exceptions-task-3.dll
+C:\Users\Amin\source\repos\collections-exceptions-task-3\bin\Debug\net8.0\collections-exceptions-task-3.pdb
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.dll
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\refint\collections-exceptions-task-3.dll
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.pdb
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\collections-exceptions-task-3.genruntimeconfig.cache
+C:\Users\Amin\source\repos\collections-exceptions-task-3\obj\Debug\net8.0\ref\collections-exceptions-task-3.dll
